@@ -1,6 +1,6 @@
 ## Oi, eu sou Isaque Beirão
 
-Atuo como desenvolvedor júnior há 1 ano, sempre em busca de evolução constante na área de tecnologia. Atualmente estou cursando Ciência da Computação, aprimorando minhas habilidades e expandindo meus conhecimentos diariamente.
+Atuo como desenvolvedor júnior, sempre em busca de evolução constante na área de tecnologia. Atualmente estou cursando Ciência da Computação, aprimorando minhas habilidades e expandindo meus conhecimentos diariamente.
 
 ## Tecnologias:
 
